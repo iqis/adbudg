@@ -2,8 +2,7 @@ Type: Package
 Package: adbudg
 Title: ADBUDG Model for Marketing Mix Modeling (MMM)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author@R: person("Siqi", "Zhang", email = "iqis.gnahz@gmail.com", role = c("aut", "cre"))
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: GPL-3
