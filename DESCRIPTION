@@ -1,15 +1,15 @@
-Package: adbudg
 Type: Package
+Package: adbudg
 Title: ADBUDG Model for Marketing Mix Modeling (MMM)
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: GPL-3
+URL: https://github.com/iqis/adbudg
+BugReports: https://github.com/iqis/adbudg/issues
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
-URL: https://github.com/iqis/adbudg
-BugReports: https://github.com/iqis/adbudg/issues
